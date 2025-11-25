@@ -16,7 +16,7 @@ A modern, responsive React application for managing users with beautiful UI and 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/yashsharma228/CRUD-App.git
    cd user-management-system
    ```
 
